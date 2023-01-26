@@ -1,4 +1,6 @@
 # colorgradient-go
+Colorgradient learning project in Go
+
 - Python version [colorgradient](https://github.com/JakeRoggenbuck/colorgradient)
 - Rust version [colorgradient-rs](https://github.com/JakeRoggenbuck/colorgradient-rs)
 - Julia version [colorgradient-julia](https://github.com/JakeRoggenbuck/colorgradient-julia)
